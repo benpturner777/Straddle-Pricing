@@ -7,17 +7,13 @@ This is a small Python project that explores **pricing a straddle options strate
 * a simple analytical approach, and
 * a basic Monte Carlo simulation.
 
-It is meant for **learning and experimentation**, not real trading or financial decisions.
+It is meant for learning and experimentation, not real trading or financial decisions.
 
 ---
 
 ## Why does this exist?
 
-I built this project to:
-
-* practice Python for mathematical finance
-* better understand options payoffs and volatility
-* experiment with Monte Carlo simulations and plotting results
+I built this project to practice Python for mathematical finance and gain a better understanding of payoffs, volatility and Monte Carlo simulation.
 
 ---
 
