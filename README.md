@@ -26,14 +26,6 @@ I built this project to practice Python for mathematical finance and gain a bett
 
 ---
 
-## Current status
-
-**Learning / experimental project**
-
-This code is not production-ready and is intentionally simplified.
-
----
-
 ## How to run it
 
 1. Make sure you have Python installed
